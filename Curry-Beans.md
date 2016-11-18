@@ -25,7 +25,7 @@
 ### Avoid sticking & burning
 * Use **low heat**.
 * Add the liquid ingredients quickly after the spices.
-* *Stir & fold* constantly.
+* **Stir & fold** *constantly*.
 
 ### Serving
 * A **bed of rice** cooked w/ **tumeric**.
@@ -33,4 +33,4 @@
 
 ### Suggestions
 * If using a **pan**, *1 tin* of baked beans works just fine.
-* Bored w/ plain baked beans? Try **baked beans w/ peas**.
+* Bored w/ plain baked beans? Try **baked beans w/ peas** and/or corn**

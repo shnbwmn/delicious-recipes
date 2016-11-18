@@ -12,10 +12,10 @@
 * **Salt & pepper** to taste.
 
 ## Method
-1. Fry onion in butter.
-2. Add & mix curry powder & cumin.
-3. Add tomato, baked beans & remaining ingredients.
-4. Cook till done.
+1. *Fry* **onion** in **butter**.
+2. *Add & mix* **curry powder & cumin**.
+3. *Add* **tomato, baked beans** & remaining ingredients.
+4. *Cook* through till done.
 
 ## Notes
-* If using a pan, 1 tin of baked beans works just fine.
+* If using a *pan*, 1 tin of baked beans works just fine.

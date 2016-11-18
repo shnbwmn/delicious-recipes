@@ -1,7 +1,9 @@
 
 # Curry Beans
 
-## Ingredients :sake:
+(add pic)
+
+## Ingredients :rice:
 * 2 tins **baked beans**
 * 1 **onion** (*chopped*)
 * 1 **tomato** (*chopped*)

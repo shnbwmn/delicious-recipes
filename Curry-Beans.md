@@ -21,7 +21,15 @@
 5. *Cook* through till done.
 
 ## Notes :clipboard:
-* Use **low heat** (*avoids sticking*).
-* Add the liquid ingredients quickly after the spices (*avoids sticking & burning*).
+
+### Avoid sticking & burning
+* Use **low heat**.
+* Add the liquid ingredients quickly after the spices.
+
+### Serving
+* A **bed of rice** cooked w/ **tumeric**.
+* For a *quick snack*: on a slice of **toasted rye bread**.
+
+### Suggestions
 * If using a **pan**, *1 tin* of baked beans works just fine.
 * Bored w/ plain baked beans? Try **baked beans w/ peas**.

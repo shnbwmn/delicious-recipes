@@ -25,6 +25,7 @@
 ### Avoid sticking & burning
 * Use **low heat**.
 * Add the liquid ingredients quickly after the spices.
+* *Stir & fold* constantly.
 
 ### Serving
 * A **bed of rice** cooked w/ **tumeric**.

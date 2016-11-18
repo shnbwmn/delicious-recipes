@@ -2,14 +2,14 @@
 # Curry Beans
 
 ## Ingredients
-* 2 tins **baked beans**.
-* 1 *chopped* **onion**.
-* 1 *chopped* **tomato**.
-* 1 tbsp **curry powder**.
-* 1/4 tsp **cumin** (*jeera*).
-* 1 tbsp **sugar**.
-* Knob of **butter**.
-* **Salt & pepper** to taste.
+* 2 tins **baked beans**
+* 1 **onion** (*chopped*)
+* 1 **tomato** (*chopped*)
+* 1 tbsp **curry powder**
+* 1/4 tsp **cumin** (*jeera*)
+* 1 tbsp **sugar**
+* Knob of **butter**
+* **Salt & pepper** to taste
 
 ## Method
 1. *Fry* **onion** in **butter**.

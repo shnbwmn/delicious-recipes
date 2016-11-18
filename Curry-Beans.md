@@ -9,7 +9,7 @@
 * 1/4 tsp **cumin** (*jeera*)
 * 1 tbsp **sugar**
 * Knob of **butter**
-* **Salt & pepper** to taste
+* **Salt & pepper** (*to taste*)
 
 ## Method
 1. *Fry* **onion** in **butter**.
@@ -18,4 +18,4 @@
 4. *Cook* through till done.
 
 ## Notes
-* If using a *pan*, 1 tin of baked beans works just fine.
+* If using a **pan**, 1 tin of baked beans works just fine.

@@ -18,4 +18,4 @@
 4. *Cook* through till done.
 
 ## Notes
-* If using a **pan**, 1 tin of baked beans works just fine.
+* If using a **pan**, *1 tin* of baked beans works just fine.

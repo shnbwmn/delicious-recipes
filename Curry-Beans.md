@@ -20,6 +20,6 @@
 4. *Cook* through till done.
 
 ## Notes :clipboard:
-* Use low heat (*avoids sticking*).
+* Use **low heat** (*avoids sticking*).
 * If using a **pan**, *1 tin* of baked beans works just fine.
-* Bored w/ plain baked beans? Try tins of baked beans with peas.
+* Bored w/ plain baked beans? Try tins of **baked beans with peas**.

@@ -3,7 +3,7 @@
 
 (add pic)
 
-## Ingredients :rice:
+## Ingredients :bread:
 * 2 tins **baked beans**
 * 1 **onion** (*chopped*)
 * 1 **tomato** (*chopped*)
@@ -13,10 +13,10 @@
 * Knob of **butter**
 * **Salt & pepper** (*to taste*)
 
-## Method 
+## Method :bell:
 1. *Fry* **onion** in **butter**.
 2. *Add & mix* **curry powder & cumin**.
-3. *Add* **tomato, baked beans** & remaining ingredients.
+3. *Add & mix* **tomato, baked beans** & remaining ingredients.
 4. *Cook* through till done.
 
 ## Notes :clipboard:

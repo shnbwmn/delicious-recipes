@@ -21,5 +21,6 @@
 
 ## Notes :clipboard:
 * Use **low heat** (*avoids sticking*).
+* Add the liquid ingredients quickly after the spices (*avoids sticking & burning*).
 * If using a **pan**, *1 tin* of baked beans works just fine.
 * Bored w/ plain baked beans? Try tins of **baked beans with peas**.

@@ -27,10 +27,10 @@
 * Add the liquid ingredients quickly after the spices.
 * **Stir & fold** *constantly*.
 
-### Serving
+### Serving suggestions
 * A **bed of rice** cooked w/ **tumeric**.
 * For a *quick snack*: on a slice of **toasted rye bread**.
 
-### Suggestions
+### Tips
 * If using a **pan**, *1 tin* of baked beans works just fine.
 * Bored w/ plain baked beans? Try **baked beans w/ peas** and/or corn**

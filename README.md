@@ -3,9 +3,13 @@
 > Just some quick and tasty recipes.
 
 ## Chicken
+* [**Garlic Roasted Drumsticks**](http://busycooks.about.com/od/chickendrumstickrecipes/r/Garlic-Roasted-Drumsticks.htm)
 * [**Lemon Chicken Stir-Fry**](http://www.eatingwell.com/recipe/249882/lemon-chicken-stir-fry/)
 
-## Pasta
+## Desserts
+* [**Creamy Rice Pudding**](http://allrecipes.com/recipe/24059/creamy-rice-pudding/)
+
+## Pastas
 * [**How To Cook Pasta**](http://busycooks.about.com/cs/pastarice/ht/cookpasta.htm)
 * [**Tomato pasta sauce**](http://www.nhs.uk/Livewell/healthy-recipes/Pages/tomato-pasta-sauce.aspx)
 

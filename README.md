@@ -14,7 +14,7 @@
 ## Veggies
 * [**Baked Acorn Squash**](http://www.foodnetwork.com/recipes/baked-acorn-squash-recipe.html)
 * [**Dauphinoise potatoes**](http://www.bbc.co.uk/food/recipes/dauphinoisepotatoes_90205)
-* [**Glazed Carrots**](http://southernfood.about.com/od/carrots/r/bl61012a.htm) | [Alt](http://www.dvo.com/newsletter/weekly/2013/03-29-642/recipe_53.html)
+* [**Glazed Carrots**](http://southernfood.about.com/od/carrots/r/bl61012a.htm) / [*alt*](http://www.dvo.com/newsletter/weekly/2013/03-29-642/recipe_53.html)
 
 
 

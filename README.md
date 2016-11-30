@@ -16,7 +16,7 @@
 
 ## Spicy
 * [**Curried Red Lentils**](http://www.food.com/recipe/curried-red-lentils-38693)
-* [**Curry Beans**](https://github.com/shnbwmn/delicious-recipes/blob/master/Curry-Beans.md) / local South African recipe
+* [**Curry Beans**](https://github.com/shnbwmn/delicious-recipes/blob/master/Curry-Beans.md) / local South African Muslim recipe
 
 ## Scrambled eggs
 * [**How To Make Perfect Scrambled Eggs**](http://www.jamieoliver.com/news-and-features/features/how-to-make-perfect-scrambled-eggs/) / [*video*](https://www.youtube.com/watch?v=s9r-CxnCXkg) / Jamie Oliver

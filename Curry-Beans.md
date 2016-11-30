@@ -3,7 +3,7 @@
 
 (add pic)
 
-## Ingredients :bread:
+## Ingredients
 * 2 tins **baked beans**
 * 1 **onion** (*chopped*)
 * 1 **tomato** (*chopped*)
@@ -13,14 +13,14 @@
 * Knob of **butter**
 * **Salt & pepper** (*to taste*)
 
-## Method :bell:
+## Method
 1. *Fry* **onion** in **butter**.
 2. *Add & mix* **curry powder, cumin**.
 3. *Add & mix* **tomato, salt & pepper**.
 4. *Add & mix* **baked beans, sugar**.
 5. *Cook* through till done.
 
-## Notes :clipboard:
+## Notes
 
 ### Avoid sticking & burning
 * Use **low heat**.

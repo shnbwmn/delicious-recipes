@@ -2,6 +2,13 @@
 
 > Just some quick and tasty recipes.
 
+## Chicken
+* [**Lemon Chicken Stir-Fry**](http://www.eatingwell.com/recipe/249882/lemon-chicken-stir-fry/)
+
+## Pasta
+* [**How To Cook Pasta**](http://busycooks.about.com/cs/pastarice/ht/cookpasta.htm)
+* [**Tomato pasta sauce**](http://www.nhs.uk/Livewell/healthy-recipes/Pages/tomato-pasta-sauce.aspx)
+
 ## Spicy
 * [**Curried Red Lentils**](http://www.food.com/recipe/curried-red-lentils-38693)
 * [**Curry Beans**](https://github.com/shnbwmn/delicious-recipes/blob/master/Curry-Beans.md)

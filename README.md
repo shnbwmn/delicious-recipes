@@ -9,12 +9,21 @@
 **_Technique:_**
 * [**How To Master 5 Basic Cooking Skills**](https://www.youtube.com/watch?v=ZJy1ajvMU1k) / Gordon Ramsay
 
+## Contents
+
+> [*Chicken*](#chicken), [*Desserts*](#desserts), [*Eggs*](#eggs), [*Pastas*](#pastas), [*Spicy*](#spicy), [*Veggies*](#veggies)
+
 ## Chicken
 * [**Garlic Roasted Drumsticks**](http://busycooks.about.com/od/chickendrumstickrecipes/r/Garlic-Roasted-Drumsticks.htm)
 * [**Lemon Chicken Stir-Fry**](http://www.eatingwell.com/recipe/249882/lemon-chicken-stir-fry/)
 
 ## Desserts
 * [**Creamy Rice Pudding**](http://allrecipes.com/recipe/24059/creamy-rice-pudding/)
+
+## Eggs
+* [**How To Make Perfect Scrambled Eggs**](http://www.jamieoliver.com/news-and-features/features/how-to-make-perfect-scrambled-eggs/) / [*video*](https://www.youtube.com/watch?v=s9r-CxnCXkg) / Jamie Oliver
+* [**Gordon Ramsay's Scrambled Eggs**](https://www.youtube.com/watch?v=PUP7U5vTMM0) / video
+* [**Perfect Scrambled Eggs**](http://www.bbcgoodfood.com/recipes/1720/perfect-scrambled-eggs) / BBC Good Food
 
 ## Pastas
 * [**Bacon & Cheese Macaroni**](http://www.food24.com/Recipes-and-Menus/Easy-Weekday-Meals/Bacon-and-cheese-macaroni-20130322)
@@ -24,11 +33,6 @@
 ## Spicy
 * [**Curried Red Lentils**](http://www.food.com/recipe/curried-red-lentils-38693)
 * [**Curry Beans**](https://github.com/shnbwmn/delicious-recipes/blob/master/Curry-Beans.md) / local South African Muslim recipe
-
-## Scrambled eggs
-* [**How To Make Perfect Scrambled Eggs**](http://www.jamieoliver.com/news-and-features/features/how-to-make-perfect-scrambled-eggs/) / [*video*](https://www.youtube.com/watch?v=s9r-CxnCXkg) / Jamie Oliver
-* [**Gordon Ramsay's Scrambled Eggs**](https://www.youtube.com/watch?v=PUP7U5vTMM0) / video
-* [**Perfect Scrambled Eggs**](http://www.bbcgoodfood.com/recipes/1720/perfect-scrambled-eggs) / BBC Good Food
 
 ## Veggies
 * [**Baked Acorn Squash**](http://www.foodnetwork.com/recipes/baked-acorn-squash-recipe.html)

@@ -29,5 +29,11 @@
 * [**Glazed Carrots**](http://southernfood.about.com/od/carrots/r/bl61012a.htm) / [*alt*](http://www.dvo.com/newsletter/weekly/2013/03-29-642/recipe_53.html)
 * [**Stuffed Bell Peppers**](http://www.foodnetwork.com/recipes/ree-drummond/stuffed-bell-peppers.html) / [*alt*](http://www.foodiecrush.com/stuffed-bell-peppers-recipe/)
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Shane Bowman has waived all copyright and related or neighbouring rights to this work.
+
 
 

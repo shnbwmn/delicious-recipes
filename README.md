@@ -2,6 +2,13 @@
 
 > Collection of quick and tasty recipes.
 
+**_Sites:_**
+* [**Jamie Oliver**](http://www.jamieoliver.com/)
+* [**Neill Anthony**](http://www.neillanthony.com/) / private chef
+
+**_Technique:_**
+* [**How To Master 5 Basic Cooking Skills**](https://www.youtube.com/watch?v=ZJy1ajvMU1k) / Gordon Ramsay
+
 ## Chicken
 * [**Garlic Roasted Drumsticks**](http://busycooks.about.com/od/chickendrumstickrecipes/r/Garlic-Roasted-Drumsticks.htm)
 * [**Lemon Chicken Stir-Fry**](http://www.eatingwell.com/recipe/249882/lemon-chicken-stir-fry/)

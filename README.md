@@ -48,5 +48,5 @@
 
 To the extent possible under law, Shane Bowman has waived all copyright and related or neighbouring rights to this work.
 
-
+*Images courtesy [Pixabay](https://pixabay.com/), `CC0`*.
 

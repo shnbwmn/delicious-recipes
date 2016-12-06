@@ -2,6 +2,8 @@
 
 > Collection of quick and tasty recipes.
 
+[![Tomatoes](img/tomatoes.jpg)](https://pixabay.com/en/tomatoes-feta-cheese-basil-1338941/)
+
 **_Sites:_**
 * [**Jamie Oliver**](http://www.jamieoliver.com/)
 * [**Neill Anthony**](http://www.neillanthony.com/) / private chef

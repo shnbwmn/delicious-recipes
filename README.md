@@ -5,6 +5,7 @@
 [![Tomatoes](img/tomatoes.jpg)](https://pixabay.com/en/tomatoes-feta-cheese-basil-1338941/)
 
 **_Sites:_**
+* [**A Sweet Pea Chef**](http://www.asweetpeachef.com/) / [*youtube*](https://www.youtube.com/user/asweetpeachef) / Lacey Baier
 * [**Jamie Oliver**](http://www.jamieoliver.com/)
 * [**Neill Anthony**](http://www.neillanthony.com/) / private chef
 

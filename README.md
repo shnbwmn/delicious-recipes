@@ -6,7 +6,7 @@
 
 **_Sites:_**
 * [**A Sweet Pea Chef**](http://www.asweetpeachef.com/) / [*youtube*](https://www.youtube.com/user/asweetpeachef) / Lacey Baier
-* [**Jamie Oliver**](http://www.jamieoliver.com/)
+* [**Jamie Oliver**](http://www.jamieoliver.com/) / [*foodtube*](https://www.youtube.com/user/JamieOliver)
 * [**Neill Anthony**](http://www.neillanthony.com/) / private chef
 
 **_Technique:_**

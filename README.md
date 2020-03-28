@@ -8,6 +8,7 @@
 * [**A Sweet Pea Chef**](http://www.asweetpeachef.com/) / [*youtube*](https://www.youtube.com/user/asweetpeachef) / Lacey Baier
 * [**Jamie Oliver**](http://www.jamieoliver.com/) / [*foodtube*](https://www.youtube.com/user/JamieOliver)
 * [**Neill Anthony**](http://www.neillanthony.com/) / private chef
+* [**Knorr What's For Dinner**](https://www.knorrwhatsfordinner.co.za/)
 
 **_Technique:_**
 * [**How To Master 5 Basic Cooking Skills**](https://www.youtube.com/watch?v=ZJy1ajvMU1k) / Gordon Ramsay
